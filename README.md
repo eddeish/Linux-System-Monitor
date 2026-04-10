@@ -40,7 +40,7 @@ A high-performance CLI system monitor written in **Rust**, inspired by `htop`, `
 ### Build from source
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/lynxmonitor.git
+git clone https://github.com/eddeish/lynxmonitor.git
 cd lynxmonitor
 cargo build --release
 ./target/release/lynxmonitor
