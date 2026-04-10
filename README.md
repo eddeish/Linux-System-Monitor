@@ -26,7 +26,7 @@ A high-performance CLI system monitor written in **Rust**, inspired by `htop`, `
 
 ## Screenshot
 
-[_Terminal UI with CPU, RAM, Disk, Network panels and process list_](https://media.discordapp.net/attachments/1096949769584246916/1492310581456408748/image.png?ex=69dade08&is=69d98c88&hm=26fe0219ca596070ea1ac78d7f4aa441475edeeeff808a15de37cd4d4b7ffbbc&=&format=webp&quality=lossless)
+https://media.discordapp.net/attachments/1096949769584246916/1492310581456408748/image.png?ex=69dade08&is=69d98c88&hm=26fe0219ca596070ea1ac78d7f4aa441475edeeeff808a15de37cd4d4b7ffbbc&=&format=webp&quality=lossless
 
 ---
 
